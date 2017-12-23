@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib
 matplotlib.use('TKAgg')
 import matplotlib.pyplot as plt
+# fikry another
 # fikry kjjjkj
 
 # Load the data set
